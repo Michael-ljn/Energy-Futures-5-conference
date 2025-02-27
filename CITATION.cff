@@ -1,0 +1,20 @@
+cff-version: 1.0.0
+authors:
+- family-names: "Lejeune"
+  given-names: "Michaël"
+  orcid: "https://orcid.org/0000-0003-3832-3422"
+- family-names: "Daiyan"
+  given-names: "Rahman"
+  orcid: "https://orcid.org/0000-0002-3543-3944"
+- family-names: "Hauschild"
+  given-names: "Michael Zwicky"
+  orcid: "https://orcid.org/0000-0002-8331-7390"
+- family-names: "Kara"
+  given-names: "Sami"
+  orcid: "https://orcid.org/0000-0001-6132-121X"
+
+title: "Coupling process and life cycle engineering: A case study for proton exchange membrane electrolysis in new south wales"
+version: 1.0.0
+doi: https://doi.org/10.5281/zenodo.14940473
+date-released: 2025-02-27
+url: "https://github.com/Michael-ljn/Energy-Futures-5-conference"
